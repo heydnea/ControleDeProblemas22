@@ -3703,24 +3703,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\João Missorino\\.nuget\\packages\\": {},
+    "C:\\Users\\Heydnéa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João Missorino\\Desktop\\Leticia\\LinguagemProgramacao\\ControleDeProblemas\\Entidade\\Entidade.csproj",
+      "projectUniqueName": "C:\\Users\\Heydnéa\\Desktop\\ControleDeProblemas22-master - 20 de abril\\ControleDeProblemas22-master\\Entidade\\Entidade.csproj",
       "projectName": "Entidade",
-      "projectPath": "C:\\Users\\João Missorino\\Desktop\\Leticia\\LinguagemProgramacao\\ControleDeProblemas\\Entidade\\Entidade.csproj",
-      "packagesPath": "C:\\Users\\João Missorino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João Missorino\\Desktop\\Leticia\\LinguagemProgramacao\\ControleDeProblemas\\Entidade\\obj\\",
+      "projectPath": "C:\\Users\\Heydnéa\\Desktop\\ControleDeProblemas22-master - 20 de abril\\ControleDeProblemas22-master\\Entidade\\Entidade.csproj",
+      "packagesPath": "C:\\Users\\Heydnéa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Heydnéa\\Desktop\\ControleDeProblemas22-master - 20 de abril\\ControleDeProblemas22-master\\Entidade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\João Missorino\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Heydnéa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netstandard1.4"

@@ -18,9 +18,11 @@ namespace Controle2
         {
             try
             {
-                string sql = "INSERT INTO Problema (descricao, tipo, nivelDificudade, dataCriacao)" +
-                         " VALUES ('" + problema.Descricao + "', " + "" + problema.Tipo + ""+ ", " + "" + problema.NivelDificuldade + "" + ", " + "'" + problema.DataCriacao + "'" + " )";
+                string sql = "INSERT INTO Problema (descricao, tipo, nivelDificudade, dataCriacao)' " +
+                         " VALUES ('" + problema.Descricao + "', ' " + problema.Tipo + " ', ' " + problema.NivelDificuldade + "' ,' " + problema.DataCriacao + "')";
                 using (db = new DB())
+
+                    //verificar ' "
                 {
                     db.ExecutaComando(sql);
                 }
@@ -36,7 +38,7 @@ namespace Controle2
         {
             using (db = new DB())
             {
-                var sql = "SELECT id, descricao, tipo , nivelDificudade, dataCriacao FROM Problema";
+                var sql = "SELECT problema.id, problema.descricao , tipo.descricao as tipo,problema.datacriacao,  nivel.descricao as nivelDificudade FROM Problema inner join tipo on tipo.id = problema.tipo inner join nivel on nivel.id = problema.nivelDificudade";
                 var retorno = db.ExecutaComandoRetorno(sql);
                 return TransformaSQLReaderEmList(retorno);
             }
@@ -53,8 +55,8 @@ namespace Controle2
                 {
                     Id = Convert.ToInt32(retorno["id"]),
                     Descricao = retorno["descricao"].ToString(),
-                    Tipo = Convert.ToInt32(retorno["tipo"]),
-                    NivelDificuldade = Convert.ToInt32(retorno["nivelDificudade"]),
+                    Tipo = new Tipo() { Descricao = retorno["tipo"].ToString() },
+                    NivelDificuldade = new Nivel() { Descricao = retorno["nivelDificudade"].ToString() },
                     DataCriacao = Convert.ToDateTime(retorno["dataCriacao"]),
                 };
 

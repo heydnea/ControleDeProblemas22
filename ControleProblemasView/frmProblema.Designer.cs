@@ -124,6 +124,7 @@
             this.dgProblema.Name = "dgProblema";
             this.dgProblema.Size = new System.Drawing.Size(532, 193);
             this.dgProblema.TabIndex = 9;
+            this.dgProblema.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgProblema_CellContentClick);
             // 
             // frmProblema
             // 

@@ -16,3 +16,21 @@ C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblema
 C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.pdb
 C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.FrmNivel.resources
 C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\ControleProblemasView\obj\Debug\ControleProblemasView.frmProblema.resources
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\bin\Debug\ControleProblemasView.exe.config
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\bin\Debug\ControleProblemasView.exe
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\bin\Debug\ControleProblemasView.pdb
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\bin\Debug\Controle2.dll
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\bin\Debug\Entidade.dll
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\bin\Debug\Controle2.pdb
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\bin\Debug\Entidade.pdb
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemas.csprojResolveAssemblyReference.cache
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemasView.FrmNivel.resources
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemasView.FrmPrincipal.resources
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemasView.frmProblema.resources
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemasView.FrmTipo.resources
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemasView.Properties.Resources.resources
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemas.csproj.GenerateResource.cache
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemas.csproj.CoreCompileInputs.cache
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemas.csproj.CopyComplete
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemasView.exe
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\ControleProblemasView\obj\Debug\ControleProblemasView.pdb

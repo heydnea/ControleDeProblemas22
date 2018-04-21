@@ -22,7 +22,7 @@ namespace ControleProblemasView
         private void btnSalvar_Click_1(object sender, EventArgs e)
         {
             Tipo tipo = new Tipo();
-            tipo.Id = Convert.ToInt32(txtId.Text);
+           
             tipo.Descricao = txtDescricao.Text;
 
             //MessageBox.Show("Olá turma!" + tipo);

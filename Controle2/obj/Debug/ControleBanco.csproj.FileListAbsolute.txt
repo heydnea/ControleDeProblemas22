@@ -7,3 +7,12 @@ C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblema
 C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\obj\Debug\ControleBanco.csproj.CopyComplete
 C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\obj\Debug\Controle2.dll
 C:\Users\João Missorino\Desktop\Leticia\LinguagemProgramacao\ControleDeProblemas\Controle2\obj\Debug\Controle2.pdb
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\Controle2\bin\Debug\Controle2.dll
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\Controle2\bin\Debug\Controle2.pdb
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\Controle2\bin\Debug\Entidade.dll
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\Controle2\bin\Debug\Entidade.pdb
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\Controle2\obj\Debug\ControleBanco.csprojResolveAssemblyReference.cache
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\Controle2\obj\Debug\ControleBanco.csproj.CoreCompileInputs.cache
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\Controle2\obj\Debug\ControleBanco.csproj.CopyComplete
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\Controle2\obj\Debug\Controle2.dll
+C:\Users\Heydnéa\Desktop\ControleDeProblemas22-master - 20 de abril\ControleDeProblemas22-master\Controle2\obj\Debug\Controle2.pdb
